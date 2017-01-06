@@ -1,0 +1,22 @@
+﻿CACHE MANIFEST
+#1483693230
+data.js
+c2runtime.js
+jquery-2.1.1.min.js
+images/tiledbackground.png
+images/player-sheet0.png
+images/monster-sheet0.png
+images/explosion-sheet0.png
+images/bullet-sheet0.png
+images/decal-sheet0.png
+images/grass_long-sheet0.png
+images/grass_short-sheet0.png
+images/texture-sheet0.png
+icon-16.png
+icon-32.png
+icon-114.png
+icon-128.png
+icon-256.png
+loading-logo.png
+NETWORK:
+*
